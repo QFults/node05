@@ -1,0 +1,23 @@
+{
+  "name": "node05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "digitalPal.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/node05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/node05/issues"
+  },
+  "homepage": "https://github.com/QFults/node05#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
