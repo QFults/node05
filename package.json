@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/QFults/node05#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "jest": "^26.0.1"
   }
 }
